@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\Redis\\src\\DistributedCaching\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9697AC-C1DC-42A0-A2AE-D6583AD1FF6A}|DistributedCaching\\DistributedCaching.csproj|c:\\dev\\redis\\src\\distributedcaching\\distributedcaching\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9697AC-C1DC-42A0-A2AE-D6583AD1FF6A}|DistributedCaching\\DistributedCaching.csproj|solutionrelative:distributedcaching\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9697AC-C1DC-42A0-A2AE-D6583AD1FF6A}|DistributedCaching\\DistributedCaching.csproj|c:\\dev\\redis\\src\\distributedcaching\\distributedcaching\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9697AC-C1DC-42A0-A2AE-D6583AD1FF6A}|DistributedCaching\\DistributedCaching.csproj|solutionrelative:distributedcaching\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0849E185-B789-4477-956A-2F8D1EF8DC65}|docker-compose.dcproj|c:\\dev\\redis\\src\\distributedcaching\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0849E185-B789-4477-956A-2F8D1EF8DC65}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9697AC-C1DC-42A0-A2AE-D6583AD1FF6A}|DistributedCaching\\DistributedCaching.csproj|c:\\dev\\redis\\src\\distributedcaching\\distributedcaching\\abstraction\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9697AC-C1DC-42A0-A2AE-D6583AD1FF6A}|DistributedCaching\\DistributedCaching.csproj|solutionrelative:distributedcaching\\abstraction\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9697AC-C1DC-42A0-A2AE-D6583AD1FF6A}|DistributedCaching\\DistributedCaching.csproj|c:\\dev\\redis\\src\\distributedcaching\\distributedcaching\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D9697AC-C1DC-42A0-A2AE-D6583AD1FF6A}|DistributedCaching\\DistributedCaching.csproj|solutionrelative:distributedcaching\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\dev\\Redis\\src\\DistributedCaching\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\dev\\Redis\\src\\DistributedCaching\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-01-30T20:54:34.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\dev\\Redis\\src\\DistributedCaching\\DistributedCaching\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "DistributedCaching\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\dev\\Redis\\src\\DistributedCaching\\DistributedCaching\\Controllers\\UserController.cs",
+              "RelativeToolTip": "DistributedCaching\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADwvzgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T20:12:47.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\dev\\Redis\\src\\DistributedCaching\\DistributedCaching\\Abstraction\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DistributedCaching\\Abstraction\\IUserRepository.cs",
+              "ToolTip": "C:\\dev\\Redis\\src\\DistributedCaching\\DistributedCaching\\Abstraction\\IUserRepository.cs",
+              "RelativeToolTip": "DistributedCaching\\Abstraction\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:38:25.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\dev\\Redis\\src\\DistributedCaching\\DistributedCaching\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DistributedCaching\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\dev\\Redis\\src\\DistributedCaching\\DistributedCaching\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DistributedCaching\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAcwF4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:15:47.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\dev\\Redis\\src\\DistributedCaching\\DistributedCaching\\appsettings.json",
+              "RelativeDocumentMoniker": "DistributedCaching\\appsettings.json",
+              "ToolTip": "C:\\dev\\Redis\\src\\DistributedCaching\\DistributedCaching\\appsettings.json",
+              "RelativeToolTip": "DistributedCaching\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T19:00:31.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
