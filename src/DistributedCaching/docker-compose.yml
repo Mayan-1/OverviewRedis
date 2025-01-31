@@ -12,9 +12,9 @@ services:
     image: postgres:latest
     container_name: database.caching
     environment:
-        - POSTGRES_DB=cachedb
-        - POSTGRES_USER=user123
-        - POSTGRES_PASSWORD=pass123
+        - POSTGRES_DB={YOUR_DB}
+        - POSTGRES_USER={YOUR_USER}
+        - POSTGRES_PASSWORD={YOUR_PASS}
     volumes:
         - db-cache:/var/lib/postgresql/data
     ports:
